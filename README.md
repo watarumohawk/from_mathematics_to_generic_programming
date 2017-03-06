@@ -3,4 +3,5 @@
 ### Usage
 
 $ g++ -Wall example.cpp -o example.out
+
 $ ./example.out
